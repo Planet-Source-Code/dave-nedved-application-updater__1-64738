@@ -1,0 +1,40 @@
+[Dato Software, Safe Guard]
+=
+[List]
+Count=4
+[UpdateDate]
+date=22/03/06
+[UpdateExpireDate]
+date=12/04/06
+[UpdateMessage]
+message=The updates you selected were successfully Downloaded and installed. For more information about the Update process please go to: http://www.updates.datosoftware.com
+[UpdateNAME]
+C:1=Settings
+C:2=Update Creator
+C:3=Update Core Manifest
+C:4=Update.exe
+[UpdateDESCRIPTION]
+C:1=Update the Settings Config File.
+C:2=New Edition to the Update Creator...
+C:3=Update the Core Manifest file to the update.exe module.
+C:4=Update the Main Update Process (Update.exe)
+[UpdateLOCATION]
+C:1=\settings.cfg
+C:2=\Update Creator.exe
+C:3=\Update.exe.manifest
+C:4=\Update.exe
+[UpdateADDRESS]
+C:1=http://updates.datosoftware.com/updatecreator/settings.cfg.txt
+C:2=http://updates.datosoftware.com/updatecreator/updatecreator.exe.txt
+C:3=http://updates.datosoftware.com/updatecreator/update.exe.manifest.txt
+C:4=http://updates.datosoftware.com/updatecreator/update.exe.txt
+[ProcessName]
+C:1=settings.cfg
+C:2=Update Creator.exe
+C:3=Update.exe.manifest
+C:4=Update.exe
+[RegisterFile]
+C:1=0
+C:2=0
+C:3=0
+C:4=0
